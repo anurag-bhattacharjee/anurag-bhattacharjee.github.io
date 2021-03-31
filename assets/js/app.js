@@ -178,7 +178,7 @@ let footer = $(`
                  <path id="camera" class="st0" d="M79,60.5h44c10.5,0,19,8.5,19,19v44c0,10.5-8.5,19-19,19H79c-10.5,0-19-8.5-19-19v-44                                                                            C60,69,68.5,60.5,79,60.5z" />
               </svg>
             </a>      
-            <a class="social-button github" href="https://github.com/anurag-bhattacharjee" target="_blank">
+            <a class="social-button github" href="https://github.com/Toni8215" target="_blank">
             <!-- SVG code for Github icon -->
             <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
                 <!-- body -->
