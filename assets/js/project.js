@@ -5,25 +5,25 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "CoBrowsing App",
+    title: "Santander Customer Satisfaction",
     cardImage: "assets/images/project-page/cobrowse.jpg",
-    description: "A cobrowsing app built using MEAN Stack.",
+    description: "Work with hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "",
+    Githublink: "https://github.com/anurag-bhattacharjee/santander-customer-satisfaction",
   },
   {
-    title: "Carbon Footprint Calculator",
+    title: "Restaurant Revenue Prediction",
     cardImage: "assets/images/project-page/carbon.jpg",
-    description: "A carbon footprint calculator for mass vehicles.",
+    description: "Predicted the annual restaurant sales of 100,000 regional locations with demographic, real estate, and commercial data",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Githublink: "",
+    Githublink: "https://github.com/anurag-bhattacharjee/restaurant-revenue-prediction",
   },
   {
-    title: "Timesheet App",
+    title: "Credit Card Dataset",
     cardImage: "assets/images/project-page/timesheet.jpg",
-    description: "A timesheet app built using Angular",
+    description: "choosing the best clustering algorithm for this dataset and train it on this dataset",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "",
+    Githublink: "https://github.com/anurag-bhattacharjee/Credit-Card-Dataset",
   },
   // {
   //   title: "Exercise Tracker",
