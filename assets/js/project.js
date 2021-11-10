@@ -9,6 +9,7 @@ const projects = [
     cardImage: "assets/images/project-page/cobrowse.jpg",
     description: "Work with hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/santander-customer-satisfaction",
   },
   {
@@ -16,6 +17,7 @@ const projects = [
     cardImage: "assets/images/project-page/carbon.jpg",
     description: "Predicted the annual restaurant sales of 100,000 regional locations with demographic, real estate, and commercial data",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/restaurant-revenue-prediction",
   },
   {
@@ -23,6 +25,7 @@ const projects = [
     cardImage: "assets/images/project-page/timesheet.jpg",
     description: "choosing the best clustering algorithm for this dataset and train it on this dataset",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/Credit-Card-Dataset",
   },
   // {
