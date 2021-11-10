@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "Restaurant Revenue Prediction",
-    cardImage: "assets/images/project-page/carbon.jpg",
+    cardImage: "assets/images/project-page/restaurant.jpeg",
     description: "Predicted the annual restaurant sales of regional locations using commercial data",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
