@@ -20,6 +20,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item"><a class="nav-link" href="resume.html">My Resume</a></li>
+   <li class="nav-item"><a class="nav-link" href="https://hashnode.com/@Anuragb34">My Blog</a></li>
 
    <div class="bike">
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 0 650 400" preserveAspectRatio="xMinYMin meet"> 
