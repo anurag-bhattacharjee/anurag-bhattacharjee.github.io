@@ -8,7 +8,7 @@ const exp = [
     cardImage: "assets/images/experience-page/cgi.jpg",
     place: "CGI",
     time: "(Dec, 2017 - Jan, 2021)",
-    desp: "<li>Researched, designed, and implemented scalable applications for MICHELIN in information identification, extraction, analysis, retrieval and indexing of client metadata.</li> <li>Collaborated with cross-functional development team members to analyze business cases based on evolving client requirements.</li>",
+    desp: "<li>Coordinated with business stakeholders and DevOps teams to build and optimize stored procedures in SQL Server as per business requirements.</li> <li>Improved logic of existing functionalities to enhance data warehousing performance by approx. 50% and execute innovative technical solutions to solve business problems.</li><li>Designed and enhanced multiple maintenance utilities using python and SQL Server boosting operational troubleshooting and resolving production issues in ERP software managing invoice operations.</li><li>•	Created a Tableau dashboard to generate weekly insights on revenue, invoice, and inventory metrics for a global tire manufacturing client</li>",
   },
   {
     title: "Associate Software Engineer",
