@@ -43,6 +43,7 @@ let header = $(`
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="research.html">Research</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
+        <li><a class="white-text" href="resume.html">My Resume</a></li>
         <li><a class="white-text" href="skill.html">Skills</a></li>
         <li><a class="white-text" href="index.html">Blog</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
