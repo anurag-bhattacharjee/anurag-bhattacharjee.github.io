@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Credit Card Dataset",
     cardImage: "assets/images/project-page/timesheet.jpg",
-    description: "choosing the best clustering algorithm for this dataset and train it on this dataset",
+    description: "Choosing the best clustering algorithm for this dataset and train it on this dataset",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/Credit-Card-Dataset",
