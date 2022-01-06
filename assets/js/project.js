@@ -28,6 +28,14 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/Credit-Card-Dataset",
   },
+  {
+    title: "CNN for Image Classification using ResNet50",
+    cardImage: "assets/images/project-page/Picture1.jpg",
+    description: "Implementing Keras using ResNet50 as the trained model",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/anurag-bhattacharjee/CNN-for-Image-Classification-using-ResNet50",
+  },
 ];
 
 // function for rendering project cards data
