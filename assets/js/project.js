@@ -29,6 +29,14 @@ const projects = [
     Githublink: "https://github.com/anurag-bhattacharjee/Credit-Card-Dataset",
   },
   {
+    title: "Text Mining using NLTK",
+    cardImage: "assets/images/project-page/text.jpeg",
+    description: "Text Mining Using Python's Natural Language Tool Kit (NLTK), and Performing two types of feature selection (wrapper and filter type) and comparing their selections",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/anurag-bhattacharjee/Text-Mining-using-NLTK",
+  },
+  {
     title: "CNN for Image Classification using ResNet50",
     cardImage: "assets/images/project-page/Picture1.jpg",
     description: "Implementing Keras using ResNet50 as the trained model",
