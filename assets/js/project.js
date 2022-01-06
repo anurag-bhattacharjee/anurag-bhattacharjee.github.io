@@ -44,6 +44,14 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/anurag-bhattacharjee/CNN-for-Image-Classification-using-ResNet50",
   },
+  {
+    title: "Lego DOE Project",
+    cardImage: "assets/images/project-page/Picture1.png",
+    description: "Design a Race Car from Lego Blocks with an associated cost for each component",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://medium.com/@anuragbhattacharjee_29410/lego-doe-project-e04661d53e82",
+  },
 ];
 
 // function for rendering project cards data
