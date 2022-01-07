@@ -20,7 +20,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item"><a class="nav-link" href="resume.html">My Resume</a></li>
-   <li class="nav-item"><a class="nav-link" href="https://medium.com/@anuragbhattacharjee_29410">Blogs</a></li>
+   <li class="nav-item"><a class="nav-link" href="https://anurag-bhattacharjee.medium.com">Blogs</a></li>
    
 
    <div class="bike">
