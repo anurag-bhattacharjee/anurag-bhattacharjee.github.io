@@ -5,10 +5,10 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Audit and Assurance Analytics Spcialist Senior Assistant",
-    cardImage: "assets/images/experience-page/deloitte.webp",
+    cardImage: "assets/images/experience-page/deloitte-logo.gif",
     place: "Deloitte",
     time: "(Aug, 2021 - Present)",
-    desp: "<li>• Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client engagement by 30%</li><li>Analyzed complex financial datasets to discover and analyze patterns, identify anomalies, access risk factors, and provide recommendations for clients to support strategic decision-making</li><li>Facilitated cross-functional communication with audit team members and developers on best practices for testing and documentation through troubleshooting sessions and PR reviews.</li>",
+    desp: "<li>Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client engagement by 30%</li><li>Analyzed complex financial datasets to discover and analyze patterns, identify anomalies, access risk factors, and provide recommendations for clients to support strategic decision-making</li><li>Facilitated cross-functional communication with audit team members and developers on best practices for testing and documentation through troubleshooting sessions and PR reviews.</li>",
   },
   {
     title: "Software Engineer",
@@ -22,7 +22,7 @@ const exp = [
     cardImage: "assets/images/experience-page/stackroute.jpg",
     place: "Stackroute",
     time: "(Aug, 2017 - Dec, 2017)",
-    desp: "<li>Worked with MEAN Stack Team to create a Co Browsing Website that empowers customer support agents to collaborate with the customer’s browser in real time.</li><li>Operated under Agile and Scrum frameworks to complete releases every week and well-organized sprints</li>",
+    desp: "<li>Worked with MEAN Stack Team to create a Co-Browsing Website that empowers customer support agents to collaborate with the customers browser in real time</li><li>Operated under Agile and Scrum frameworks to complete releases every week and well-organized sprints</li>",
   },
   // {
   //   title: "Research Intern",
