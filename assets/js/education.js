@@ -4,26 +4,7 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
-  {
-    title: "Introduction to Python",
-    cardImage: "assets/images/education-page/datacamp1.png",
-    moocLink: "https://www.datacamp.com/courses/intro-to-python-for-data-science",
-  },
-  {
-    title: "Business Intelligence",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/",
-  },
-  {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
+
   // {
   //   title: "Introduction to CSS 3",
   //   cardImage: "assets/images/education-page/udacity_logo.png",

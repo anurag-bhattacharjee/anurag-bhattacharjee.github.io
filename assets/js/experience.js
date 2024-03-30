@@ -7,7 +7,7 @@ const exp = [
     title: "Audit and Assurance Analytics Spcialist Senior Assistant",
     cardImage: "assets/images/experience-page/output.jpg",
     place: "Deloitte",
-    time: "(Aug, 2022 - Present)",
+    time: "(Aug, 2022 - March 2024)",
     desp: "<li>Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client interaction by 30%</li><li>Analyzed complex financial datasets to discover and interpret patterns, identify anomalies, access uncertainties, and provide recommendations for clients on strategic decision-making leading to a 35% increase in operational efficiency</li><li>Spearheaded robust risk assessment and attrition strategies that surpassed risk management KPIs by 15% through precise risk forecasting and proactive measures</li><li>Led cross-functional teams & instituted best practices for testing and documentation through troubleshooting sessions for on-time delivery of new code modernization system, within a 12 week timeline, resulting in improved productivity</li>",
   },
   {
