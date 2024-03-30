@@ -5,7 +5,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Audit and Assurance Analytics Spcialist Senior Assistant",
-    cardImage: "assets/images/experience-page/deloitte.png",
+    cardImage: "assets/images/experience-page/Deloitte_.jpeg",
     place: "Deloitte",
     time: "(Aug, 2021 - Present)",
     desp: "<li>Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client engagement by 30%</li><li>Analyzed complex financial datasets to discover and analyze patterns, identify anomalies, access risk factors, and provide recommendations for clients to support strategic decision-making</li><li>Facilitated cross-functional communication with audit team members and developers on best practices for testing and documentation through troubleshooting sessions and PR reviews.</li>",
