@@ -5,17 +5,17 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Audit and Assurance Analytics Spcialist Senior Assistant",
-    cardImage: "assets/images/experience-page/Deloitte_.jpeg",
+    cardImage: "assets/images/experience-page/output.png",
     place: "Deloitte",
-    time: "(Aug, 2021 - Present)",
-    desp: "<li>Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client engagement by 30%</li><li>Analyzed complex financial datasets to discover and analyze patterns, identify anomalies, access risk factors, and provide recommendations for clients to support strategic decision-making</li><li>Facilitated cross-functional communication with audit team members and developers on best practices for testing and documentation through troubleshooting sessions and PR reviews.</li>",
+    time: "(Aug, 2022 - Present)",
+    desp: "<li>Built and executed data pipelines and industry-focused dashboards to support audit objectives, using PySpark, SQL Server, and Tableau reducing processing time and cost by 20%</li><li>Implemented logic enhancements in PySpark improving script execution performance and collaborated with specific teams to streamline strategies for production-related issues, maximizing client interaction by 30%</li><li>Analyzed complex financial datasets to discover and interpret patterns, identify anomalies, access uncertainties, and provide recommendations for clients on strategic decision-making leading to a 35% increase in operational efficiency</li><li>Spearheaded robust risk assessment and attrition strategies that surpassed risk management KPIs by 15% through precise risk forecasting and proactive measures</li><li>Led cross-functional teams & instituted best practices for testing and documentation through troubleshooting sessions for on-time delivery of new code modernization system, within a 12 week timeline, resulting in improved productivity</li>",
   },
   {
     title: "Software Engineer",
     cardImage: "assets/images/experience-page/cgi.jpg",
     place: "CGI",
     time: "(Dec, 2017 - Jan, 2021)",
-    desp: "<li> Coordinated with business stakeholders and DevOps teams to build and optimize stored procedures in SQL Server and identify performance bottlenecks and areas of improvement based on business requirements</li><li>Improved data warehousing performance by approximately 50%, contributing to overall operational efficiency and faster query response times</li><li>Designed and enhanced multiple maintenance utilities in Python and SQL Server boosting operational troubleshooting and resolving production issues resulting in increased system reliability and minimized downtimes by 20%</li><li>Developed and maintained databases, data models, and dashboards for tracking and reporting weekly key performance indicators (KPIs) for global tire manufacturing client.</li>",
+    desp: "<li> Coordinated with business stakeholders and DevOps teams to build and optimize stored procedures in SQL Server and identify performance bottlenecks and areas of improvement based on business requirements</li><li>Improved data warehousing performance by implementing modified data governance framework requirements & optimizing schema architecture, boosting average query response time by ~50%</li><li>Designed and enhanced multiple maintenance utilities in Python and Oracle Server boosting troubleshooting production issues, resulting in 20% decrease in SLA downtime</li><li>Managed client relationships throughout the entire life-cycle, resulting in a 40% increase in client retention rates</li><li>Developed and maintained BI dashboards for tracking weekly KPIs that improved inventory reporting time by 90%</li><li>Implemented A/B testing methodologies to analyze client metrics, leveraging statistical analysis to optimize inventory management strategies for enhanced performance</li>",
   },
   {
     title: "Associate Software Engineer",
